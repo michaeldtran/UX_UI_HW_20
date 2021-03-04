@@ -1,0 +1,39 @@
+.logo {
+    display: flex;
+}
+.nav-item {
+    color: #0B5351;
+}
+
+.heroImage {
+    
+}
+.img {
+    max-width: 100%;
+    height: auto;
+}
+.interviews {
+    
+}
+.flex-column {
+    position:fixed;
+    top:10em;
+    left:1em;
+}
+.sketchWireframe {
+    margin: 1em;
+}
+.iterationCopyone {
+    margin-top: 6em;
+}
+.iterationCopytwo {
+    margin-top: 6em;
+}
+
+
+
+@media only screen and (max-width: 600px){
+    .flex-column {
+        position: static;
+    }
+}
